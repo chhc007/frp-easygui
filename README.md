@@ -11,4 +11,5 @@ Frp简易图形化启动器
 
 可以放到托盘的启动器，随时开始、停止、配置、看日志，还能开机自启，但是无法解决登入系统前就启动的问题，服务方式启动会导致运行用户为SYSTEM，无法显示界面
 
-![Uploading 屏幕截图 .png…]()
+
+<img width="476" alt="屏幕截图 " src="https://github.com/chhc007/frp-easygui/assets/33822425/3a8fd246-f50e-45a8-aa7c-29596043b01b">
